@@ -1,3 +1,1 @@
 # NPL y IA
-
-Prueba
